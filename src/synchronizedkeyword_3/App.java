@@ -1,4 +1,4 @@
-package synchronizedkeyword;
+package synchronizedkeyword_3;
 
 public class App {
 
